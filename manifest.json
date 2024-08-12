@@ -1,15 +1,15 @@
 {
-"name": "Tarjeta Demo",
-"short_name": "Tarjeta Demo",
-"start_url": "/demo1pwa/",
-"scope": "/demo1pwa/",
+"name": "Tarjeta Demo 003",
+"short_name": "Tarjeta 003",
+"start_url": "/tarjeta-003/",
+"scope": "/tarjeta-003/",
 "display": "standalone",
 "description": "A description for your application",
 "lang": " The default language of your application",
 "dir": "auto",
 "theme_color": "#000000",
 "background_color": "#000000",
-"orientation": "any",
+"orientation": "portrait",
 "icons": [
     {
         "src": "images/icons/icon-72x72.png",
